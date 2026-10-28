@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=podcast sync
+Icon=/usr/share/icons/kuromi-icons/App Icons/1.png
+Exec=/home/adam/gPodder/syncscript.sh
+Terminal=true
